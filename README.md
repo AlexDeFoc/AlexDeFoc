@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexDeFoc
-- 👀 I’m interested in space
+- 👀 I’m interested in deep cosmos
 - 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on life
+- 😁 I’m looking to collaborate on life
 - 📫 How to reach me "alex.de.foc@gmail.com"
 
 <!---
