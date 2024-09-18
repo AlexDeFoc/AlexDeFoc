@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexDeFoc
+- 🤖 I make software that pops in my head, and work on it straight daily until i finish it. Usually tools.
 - 👀 I’m interested in deep cosmos
-- 🌱 I’m currently learning life
-- 😁 I’m looking to collaborate on life
+- 😁 I’m looking forward to collaborate
 - 📫 How to reach me "alex.de.foc@gmail.com"
 
 <!---
