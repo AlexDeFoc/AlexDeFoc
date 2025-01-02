@@ -4,4 +4,4 @@
 - 😁 I’m looking forward to collaborate
 - 📫 How to reach me "alex.de.foc@gmail.com"
 
-### Just finished gameWatch_c! My first big C project that is efficient, safe, cool and fast!
+## AC_LIB is out! The collection containing c libraries for easing your coding and making it safer, faster and cleaner.
